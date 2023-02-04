@@ -1,0 +1,41 @@
+.new-input{
+  width: 80%;
+}
+
+.new-form{
+}
+
+.new-textarea{
+  display: flex;
+  width: 90%;
+}
+
+.new-note{
+  display: flex;
+  width: 90%;
+  justify-content: left;
+}
+
+.textarea-div{
+  margin: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+
+.buttons-div{
+  display: flex;
+  width: 90%;
+  justify-content: right;
+}
+
+.new-button{
+  margin: 0 1rem;
+}
+
+.outer-buttons-div{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
